@@ -1,0 +1,18 @@
+﻿#the_form {
+
+    border: 3px solid black;
+    border-radius:15px;    
+    padding:20px;        
+    text-align:center;
+    direction:rtl;
+    background-color:rgb(215, 206, 206);
+    text-align:center;
+    width:1250px;
+    margin-left: auto ;
+    margin-right: auto ;
+    
+    color: #6666FF;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
